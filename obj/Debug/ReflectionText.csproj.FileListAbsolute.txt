@@ -1,0 +1,6 @@
+C:\Users\jacopo\source\repos\ReflectionText\ReflectionText\bin\Debug\ReflectionText.exe.config
+C:\Users\jacopo\source\repos\ReflectionText\ReflectionText\bin\Debug\ReflectionText.exe
+C:\Users\jacopo\source\repos\ReflectionText\ReflectionText\bin\Debug\ReflectionText.pdb
+C:\Users\jacopo\source\repos\ReflectionText\ReflectionText\obj\Debug\ReflectionText.csproj.CoreCompileInputs.cache
+C:\Users\jacopo\source\repos\ReflectionText\ReflectionText\obj\Debug\ReflectionText.exe
+C:\Users\jacopo\source\repos\ReflectionText\ReflectionText\obj\Debug\ReflectionText.pdb
